@@ -25,9 +25,9 @@
 #include <AWSFoundationalTypes.h>
 #include "keys.h"
 
-uint8_t sensorEnable = D1;
+uint8_t sensorEnable = D8;
 uint8_t sensor = A0;
-uint8_t sensorSwitch = D3;
+uint8_t sensorSwitch = D1;
 
 const int sleepTimeS = 30;
 
@@ -85,15 +85,15 @@ void printCurrentNetwork() {
 
   // signal strength:
   Serial.print("signal strength (RSSI): ");
-  Serial.println( WiFi.RSSI());
+  Serial.println(WiFi.RSSI());
 }
 
-bool switchIsDisabled() {
+bool sensorIsDisabled() {
 
   return digitalRead(sensorSwitch) == LOW;
 }
 
-void publish(const char *topic, uint16_t data) {
+void publish(const char *topic, uint8_t data) {
   
   AmazonIOTClient iotClient;
   ActionError actionError;
@@ -146,7 +146,7 @@ void checkSoilMoisture() {
 
   Serial.println("Checking soil moisture level");
 
-  if (switchIsDisabled()) {
+  if (sensorIsDisabled()) {
     Serial.println("Soil check is disabled..");
     return;
   }
@@ -160,6 +160,11 @@ void checkSoilMoisture() {
   Serial.print("Sensor value: ");
   Serial.println(sensorValue);
 
-  publish("soil/moisture", sensorValue);
+  uint8_t moistureLevel = sensorValue / 1023.0f * 100;
+ 
+  Serial.print("Moisture level: ");
+  Serial.println(moistureLevel);
+ 
+  publish("soil/moisture", moistureLevel);
 }
 

@@ -41,7 +41,7 @@
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(32, PIN, NEO_GRB + NEO_KHZ800);
 
 void setColor(uint8_t r, uint8_t g, uint8_t b, bool immediate = false);
-uint16_t getSoilMoistureValue();
+uint8_t getSoilMoistureValue();
 
 void setup() {
 
@@ -57,16 +57,16 @@ void setup() {
 
 void loop() {
 
-  uint16_t value = getSoilMoistureValue();
-  if (value <= 100) {
+  uint8_t value = getSoilMoistureValue();
+  if (value <= 10) {
     // too little water
     setColor(1, 0, 0);
   }
-  else if (value > 100 && value <= 200) {
+  else if (value > 10 && value <= 30) {
     // should probably water
     setColor(1, 1, 0);
   }
-  else if (value > 100 && value <= 400) {
+  else if (value > 30 && value <= 60) {
     // just enough water
     setColor(0, 1, 0);
   }
@@ -127,7 +127,7 @@ void printCurrentNetwork() {
   Serial.println( WiFi.RSSI());
 }
 
-uint16_t getSoilMoistureValue() {
+uint8_t getSoilMoistureValue() {
   
   AmazonIOTClient iotClient;
   ActionError actionError;
@@ -146,11 +146,11 @@ uint16_t getSoilMoistureValue() {
     delay(50);
   }
   
-  Serial.println("");
+  Serial.println();
   Serial.println("WiFi connected");
   
-//  printCurrentNetwork();
-//  printWiFiData();
+  printCurrentNetwork();
+  printWiFiData();
 
   delay(50);
 
@@ -175,7 +175,6 @@ uint16_t getSoilMoistureValue() {
     
     if (i > 0 && shadow[i] == '\n' && shadow[i-1] == '\n') {
 
-      Serial.println(l-1-i);
       body = new char[l-1-i]();
       
       int j = 0, il = l + 1 - i;
@@ -204,11 +203,11 @@ uint16_t getSoilMoistureValue() {
   root.printTo(Serial);
   Serial.println();
   
-  uint16_t level = root["state"]["reported"]["moisture"];
+  uint8_t level = root["state"]["reported"]["moisture"];
   Serial.print("Moisture level: ");
   Serial.println(level);
 
-  Serial.println(ESP.getFreeHeap());
+  //Serial.println(ESP.getFreeHeap());
   Serial.println("Done!");
 
   return level;
