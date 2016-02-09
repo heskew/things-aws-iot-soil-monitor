@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   height="25.6mm"
+   width="34.200001mm"
+   viewBox="0 0 121.1811 90.708662"
+   id="svg4136"
+   gorn="0"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="wemos_d1_mini.layers.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1565"
+     inkscape:window-height="914"
+     id="namedview153"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="7.3588209"
+     inkscape:cx="57.062842"
+     inkscape:cy="48.079295"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3">
+    <sodipodi:guide
+       position="5.0279792,78.952865"
+       orientation="1,0"
+       id="guide4388" />
+    <sodipodi:guide
+       position="114.96406,77.593951"
+       orientation="1,0"
+       id="guide4390" />
+    <sodipodi:guide
+       position="20.655482,73.109537"
+       orientation="1,0"
+       id="guide4394" />
+    <sodipodi:guide
+       position="36.554767,63.18947"
+       orientation="1,0"
+       id="guide4396" />
+    <sodipodi:guide
+       position="51.366922,30.847333"
+       orientation="1,0"
+       id="guide4398" />
+    <sodipodi:guide
+       position="67.53799,14.132699"
+       orientation="1,0"
+       id="guide4400" />
+    <sodipodi:guide
+       position="83.029602,48.92088"
+       orientation="1,0"
+       id="guide4402" />
+    <sodipodi:guide
+       position="99.20067,46.338945"
+       orientation="1,0"
+       id="guide4404" />
+    <sodipodi:guide
+       position="7.8816971,87.921693"
+       orientation="0,1"
+       id="guide4406" />
+    <sodipodi:guide
+       position="1.9024786,3.9408487"
+       orientation="0,1"
+       id="guide4408" />
+    <sodipodi:guide
+       position="29.080744,35.059964"
+       orientation="1,0"
+       id="guide4499" />
+    <sodipodi:guide
+       position="47.154291,50.551576"
+       orientation="0,1"
+       id="guide4501" />
+    <sodipodi:guide
+       position="5.0279792,71.750624"
+       orientation="0,1"
+       id="guide4503" />
+    <sodipodi:guide
+       position="27.450048,18.073547"
+       orientation="0,1"
+       id="guide4505" />
+  </sodipodi:namedview>
+  <desc
+     id="desc3">
+    <referenceFile>wemos_d1_mini.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs4138" />
+  <metadata
+     id="metadata4141">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="breadboard"
+     style="display:inline">
+    <g
+       transform="translate(-2.8047865,-965.30767)"
+       id="g7">
+      <g
+         id="g9">
+        <g
+           id="layer1"
+           gorn="0.3.0.0">
+          <g
+             transform="matrix(0.12864799,0,0,0.12064742,28.363646,949.01252)"
+             id="g12">
+            <g
+               id="g14">
+              <g
+                 id="layer1-8"
+                 gorn="0.3.0.0.0.0.0">
+                <g
+                   transform="matrix(8.4018004,0,0,10.410493,-1985.6169,-3696.4537)"
+                   id="g17">
+                  <g
+                     id="g19">
+                    <g
+                       id="g9258"
+                       gorn="0.3.0.0.0.0.0.0.0.0">
+                      <g
+                         transform="translate(58.552246,-23.966942)"
+                         id="g22">
+                        <g
+                           id="g24">
+                          <g
+                             id="g12101"
+                             gorn="0.3.0.0.0.0.0.0.0.0.0.0.0">
+                            <g
+                               transform="matrix(2.5214638,0,0,2.6860698,-336.79345,-718.61693)"
+                               id="g27">
+                              <g
+                                 id="g29">
+                                <g
+                                   id="g12025"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                <path
+                                   d="m 229.10597,413.62576 -29.11791,-0.009 c -2.85012,0.22988 -4.5578,1.59619 -5.01594,3.39631 l 0.0319,19.70024 c 0.47648,2.17529 2.42096,3.21328 5.04782,3.51637 l 38.46965,-0.0172 c 0.26318,-0.0347 0.41514,-0.24645 0.44633,-0.53175 l -0.0319,-8.79092 -1.4134,-0.009 0.0106,-9.21117 1.43465,-0.009 0.0319,-5.44608 c 0.002,-0.17717 -0.27807,-0.44189 -0.55792,-0.43741 l -8.06055,0.0342 z"
+                                   style="fill:#445fac;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="path10955"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+                                   inkscape:connector-curvature="0" />
+                                <ellipse
+                                   cy="415.13522"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector0pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1"
+                                   cx="205.00398" />
+                                <ellipse
+                                   cy="415.13522"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector1pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2"
+                                   cx="208.24522" />
+                                <ellipse
+                                   cy="415.11807"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector2pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3"
+                                   cx="211.53958" />
+                                <ellipse
+                                   cy="415.12665"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector3pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4"
+                                   cx="214.77017" />
+                                <ellipse
+                                   cy="415.1095"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector4pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5"
+                                   cx="218.03265" />
+                                <ellipse
+                                   cy="415.11807"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector5pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6"
+                                   cx="221.29515" />
+                                <ellipse
+                                   cy="415.1095"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector6pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7"
+                                   cx="224.56825" />
+                                <ellipse
+                                   cy="415.1095"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector7pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8"
+                                   cx="227.8201" />
+                                <ellipse
+                                   cy="438.84924"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector9pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.9"
+                                   cx="227.83073" />
+                                <ellipse
+                                   cy="438.8407"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector10pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.10"
+                                   cx="224.57887" />
+                                <ellipse
+                                   cy="438.84927"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector11pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.11"
+                                   cx="221.31639" />
+                                <ellipse
+                                   cy="438.83212"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector12pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.12"
+                                   cx="218.04329" />
+                                <ellipse
+                                   cy="438.8407"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector13pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.13"
+                                   cx="214.77019" />
+                                <ellipse
+                                   cy="438.83212"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector14pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.14"
+                                   cx="211.51833" />
+                                <ellipse
+                                   cy="438.8407"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector15pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.15"
+                                   cx="208.24521" />
+                                <ellipse
+                                   cy="438.82355"
+                                   rx="1.0520705"
+                                   ry="0.84907466"
+                                   style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.21384946;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   id="connector16pin"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.16"
+                                   cx="204.99336" />
+                                <g
+                                   transform="scale(1.113135,0.89836363)"
+                                   id="g49">
+                                <g
+                                   id="g51">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.17.0.0"><text
+                                   x="183.07974"
+                                   y="487.06647"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0"
+                                   id="tspan11871"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.17.0.0.0"
+                                   sodipodi:linespacing="125%">TX</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g55">
+                                <g
+                                   id="g57">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-1"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.18.0.0"><text
+                                   x="185.99443"
+                                   y="487.07568"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0"
+                                   id="tspan11871-4"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.18.0.0.0"
+                                   sodipodi:linespacing="125%">RX</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g61">
+                                <g
+                                   id="g63">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-0"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.19.0.0"><text
+                                   x="189.1449"
+                                   y="487.05658"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0"
+                                   id="tspan11871-5"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.19.0.0.0"
+                                   sodipodi:linespacing="125%">D1</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g67">
+                                <g
+                                   id="g69">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-9"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.20.0.0"><text
+                                   x="191.97078"
+                                   y="487.07568"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0"
+                                   id="tspan11871-48"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.20.0.0.0"
+                                   sodipodi:linespacing="125%">D2</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g73">
+                                <g
+                                   id="g75">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-4"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.21.0.0"><text
+                                   x="194.91122"
+                                   y="487.05658"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0"
+                                   id="tspan11871-2"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.21.0.0.0"
+                                   sodipodi:linespacing="125%">D3</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g79">
+                                <g
+                                   id="g81">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-4-6"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.22.0.0"><text
+                                   x="197.8567"
+                                   y="487.06653"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0"
+                                   id="tspan11871-2-0"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.22.0.0.0"
+                                   sodipodi:linespacing="125%">D4</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g85">
+                                <g
+                                   id="g87">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-4-2"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.23.0.0"><text
+                                   x="201.24585"
+                                   y="487.04742"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0"
+                                   id="tspan11871-2-4"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.23.0.0.0"
+                                   sodipodi:linespacing="125%">G</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g91">
+                                <g
+                                   id="g93">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-4-9"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.24.0.0"><text
+                                   x="203.67075"
+                                   y="487.0379"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0"
+                                   id="tspan11871-2-46"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.24.0.0.0"
+                                   sodipodi:linespacing="125%">5V</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g97">
+                                <g
+                                   id="g99">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-4-7"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.25.0.0"><text
+                                   x="203.27933"
+                                   y="464.80334"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0 0"
+                                   id="tspan11871-2-3"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.25.0.0.0"
+                                   sodipodi:linespacing="125%">3V3</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g103">
+                                <g
+                                   id="g105">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-4-4"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.26.0.0"><text
+                                   x="200.80669"
+                                   y="464.77469"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0"
+                                   id="tspan11871-2-8"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.26.0.0.0"
+                                   sodipodi:linespacing="125%">D8</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g109">
+                                <g
+                                   id="g111">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-4-8"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.27.0.0"><text
+                                   x="197.87579"
+                                   y="464.78424"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0"
+                                   id="tspan11871-2-7"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.27.0.0.0"
+                                   sodipodi:linespacing="125%">D7</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g115">
+                                <g
+                                   id="g117">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-4-47"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.28.0.0"><text
+                                   x="194.91624"
+                                   y="464.79382"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0"
+                                   id="tspan11871-2-34"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.28.0.0.0"
+                                   sodipodi:linespacing="125%">D6</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g121">
+                                <g
+                                   id="g123">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-4-80"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.29.0.0"><text
+                                   x="192.02356"
+                                   y="464.75562"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0"
+                                   id="tspan11871-2-2"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.29.0.0.0"
+                                   sodipodi:linespacing="125%">D5</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g127">
+                                <g
+                                   id="g129">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-4-99"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.30.0.0"><text
+                                   x="189.11174"
+                                   y="464.79382"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0"
+                                   id="tspan11871-2-84"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.30.0.0.0"
+                                   sodipodi:linespacing="125%">D0</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g133">
+                                <g
+                                   id="g135">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-4-802"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.31.0.0"><text
+                                   x="186.09494"
+                                   y="464.77469"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0"
+                                   id="tspan11871-2-9"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.31.0.0.0"
+                                   sodipodi:linespacing="125%">A0</text>
+</g>                                </g>
+                                </g>
+                                <g
+                                   transform="scale(1.113135,0.89836364)"
+                                   id="g139">
+                                <g
+                                   id="g141">
+                                <g
+                                   font-size="4.27697"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27696991px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text11869-4-42"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.32.0.0"><text
+                                   x="182.68669"
+                                   y="464.78427"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.60386491px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   rotate="0 0 0 0"
+                                   id="tspan11871-2-96"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.32.0.0.0"
+                                   sodipodi:linespacing="125%">RST</text>
+</g>                                </g>
+                                </g>
+                                <rect
+                                   x="231.4014"
+                                   y="422.81122"
+                                   height="7.3757997"
+                                   style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.21384946;stroke-miterlimit:4;stroke-dasharray:none"
+                                   width="7.3963737"
+                                   id="rect12021"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.33" />
+                                <rect
+                                   x="232.97418"
+                                   y="415.05804"
+                                   height="1.0120282"
+                                   style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.21384947;stroke-miterlimit:4;stroke-dasharray:none"
+                                   width="2.6779976"
+                                   id="rect12023"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.34" />
+                                </g>
+                              </g>
+                            </g>
+                            <g
+                               transform="scale(1.1131392,0.89836025)"
+                               id="g147">
+                              <g
+                                 id="g149">
+                                <g
+                                   font-size="4.27699"
+                                   xml:space="preserve"
+                                   style="font-style:normal;font-weight:normal;font-size:4.27698994px;line-height:125%;font-family:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   id="text12097"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.1.0.0"><text
+                                   x="162.95085"
+                                   y="476.65891"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.1481719px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff"
+                                   id="tspan12099"
+                                   gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0">WeMos D1 mini</text>
+</g>                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="schematic"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="5.0279756"
+       y="22.491213"
+       id="text4444"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4446"
+         x="5.0279756"
+         y="22.491213"></tspan></text>
+    <g
+       id="g4639">
+      <rect
+         y="16.838097"
+         x="1.4637482"
+         height="58.05365"
+         width="118.41729"
+         id="rect4282"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4410"
+         d="m 5.0279757,16.783776 0,-13.0455687"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4412"
+         d="m 20.655479,16.783776 0,-13.0455687"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4414"
+         d="m 36.554765,16.919667 0,-13.1814597"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4416"
+         d="m 51.366921,16.919667 0,-13.1814597"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4418"
+         d="m 67.53799,16.919667 0,-13.1814597"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4420"
+         d="m 83.029602,16.919667 0,-13.1814597"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4422"
+         d="m 99.200671,17.055558 0,-13.3173507"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4424"
+         d="m 114.96407,16.647884 0,-12.9096767"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4428"
+         d="m 5.0279757,75.081159 0,12.637894"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4430"
+         d="m 20.655479,75.081159 0,12.637894"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4432"
+         d="m 36.554765,74.945267 0,12.773786"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4434"
+         d="m 51.366921,75.21705 0,12.502003"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4436"
+         d="m 67.53799,74.945267 0,12.773786"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4438"
+         d="m 83.029602,74.673485 0,13.045568"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4440"
+         d="m 99.200671,75.081159 0,12.637894"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4442"
+         d="m 114.96407,75.488833 0,12.23022"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4452"
+         y="20.860516"
+         x="2.5819316"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="20.860516"
+           x="2.5819316"
+           id="tspan4454"
+           sodipodi:role="line">RST</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4456"
+         y="20.996408"
+         x="19.024784"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="20.996408"
+           x="19.024784"
+           id="tspan4458"
+           sodipodi:role="line">A0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4460"
+         y="20.996408"
+         x="34.652287"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="20.996408"
+           x="34.652287"
+           id="tspan4462"
+           sodipodi:role="line">D0</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4464"
+         y="20.860516"
+         x="49.464443"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="20.860516"
+           x="49.464443"
+           id="tspan4466"
+           sodipodi:role="line">D5</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4468"
+         y="20.996407"
+         x="65.635506"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="20.996407"
+           x="65.635506"
+           id="tspan4470"
+           sodipodi:role="line">D6</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4472"
+         y="20.860516"
+         x="81.263016"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="20.860516"
+           x="81.263016"
+           id="tspan4474"
+           sodipodi:role="line">D7</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4476"
+         y="20.860516"
+         x="97.298195"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="20.860516"
+           x="97.298195"
+           id="tspan4478"
+           sodipodi:role="line">D8</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4480"
+         y="20.996408"
+         x="112.6539"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="20.996408"
+           x="112.6539"
+           id="tspan4482"
+           sodipodi:role="line">3V3</tspan></text>
+      <text
+         gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0"
+         id="tspan12099-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.16355085px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         y="46.97401"
+         x="27.941738"
+         transform="scale(1.0326246,0.96840613)"
+         sodipodi:linespacing="125%">WeMos D1 mini</text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4507"
+         y="72.499222"
+         x="3.5331709"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="72.499222"
+           x="3.5331709"
+           id="tspan4509"
+           sodipodi:role="line">TX</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4511"
+         y="72.635109"
+         x="18.888893"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="72.635109"
+           x="18.888893"
+           id="tspan4513"
+           sodipodi:role="line">RX</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4515"
+         y="72.499222"
+         x="34.924068"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="72.499222"
+           x="34.924068"
+           id="tspan4517"
+           sodipodi:role="line">D1</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4519"
+         y="72.635117"
+         x="49.600334"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="72.635117"
+           x="49.600334"
+           id="tspan4521"
+           sodipodi:role="line">D2</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4523"
+         y="72.499229"
+         x="65.771393"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="72.499229"
+           x="65.771393"
+           id="tspan4525"
+           sodipodi:role="line">D3</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4527"
+         y="72.635109"
+         x="81.263008"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="72.635109"
+           x="81.263008"
+           id="tspan4529"
+           sodipodi:role="line">D4</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4531"
+         y="72.499222"
+         x="98.249428"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="72.499222"
+           x="98.249428"
+           id="tspan4533"
+           sodipodi:role="line">G</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4535"
+         y="72.635117"
+         x="113.46925"
+         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="72.635117"
+           x="113.46925"
+           id="tspan4537"
+           sodipodi:role="line">5V</tspan></text>
+    </g>
+  </g>
+</svg>
